@@ -2,7 +2,7 @@
 
 **Presenter:** Eva J Herzog
 
-linkedin.com/in/evajherzog
+[linkedin.com/in/evajherzog](https://www.linkedin.com/in/evajherzog)
 
 ## Get Familiar With Github
 
