@@ -5,6 +5,7 @@
 ### Clone This Repository
 
 `git clone https://github.com/ejherzog/sisterHacks.git`
+
 `cd sisterHacks`
 
 ### Create A New Branch
