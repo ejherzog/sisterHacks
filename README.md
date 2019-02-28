@@ -15,3 +15,11 @@
 ### Create A New Branch
 
 `git checkout -b <yourGithubUsername>`
+
+## Resources To Learn More
+
+[Git Intro Workshop](https://github.com/reshama/git-intro-workshop7-wwcode)
+
+[Github Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
+[Friendly Github Workshop](https://kirstiejane.github.io/friendly-github-intro/)
