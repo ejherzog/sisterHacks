@@ -23,3 +23,7 @@
 [Github Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 [Friendly Github Workshop](https://kirstiejane.github.io/friendly-github-intro/)
+
+## Happy Caturday!
+
+![Caturday Drawing made with draw.io](images/Caturday.png)
